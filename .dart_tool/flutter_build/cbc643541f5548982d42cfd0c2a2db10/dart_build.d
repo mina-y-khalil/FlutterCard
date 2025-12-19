@@ -1,0 +1,1 @@
+ /Users/minakhalil/Desktop/FlutterCard/.dart_tool/flutter_build/cbc643541f5548982d42cfd0c2a2db10/dart_build_result.json: 
